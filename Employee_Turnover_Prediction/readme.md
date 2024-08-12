@@ -24,11 +24,11 @@ avg_hrs_month - the average hours the employee worked in a month.
 left - "yes" if the employee ended up leaving, "no" otherwise.
 
 # Features
--Import libraries
--loading data
--apply EDA
--Modelling
--Randomdorest
+-Import libraries<br>
+-loading data<br>
+-apply EDA<br>
+-Modelling<br>
+-Randomdorest<br>
 
 # Project Structure
 The project is structured as follows:
@@ -38,8 +38,8 @@ The project is structured as follows:
 - dataset/: Directory containing the dataset used for training.
 
 # Technologies Used
--Python
--Flask
--pandas
--numpy
--scikit-learn
+-Python<br>
+-Flask<br>
+-pandas<br>
+-numpy<br>
+-scikit-learn<br>
